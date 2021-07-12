@@ -34,7 +34,7 @@ int main(){
         }
         mid=((first+last)/2);
         if (first > last){
-            printf("Not found! %d isn't present in the list.\n", searching);
+            printf("Not found!");
         }
          return 0;
     }
